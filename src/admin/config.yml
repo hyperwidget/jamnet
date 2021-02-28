@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: hyperwidget/jamnet
+  branch: main
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
